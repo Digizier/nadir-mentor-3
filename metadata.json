@@ -1,0 +1,7 @@
+{
+  "name": "Nadir's English Mentor",
+  "description": "A personal AI communication coach that corrects grammar and polishes speech for professional environments.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
